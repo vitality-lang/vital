@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/vitality-lang/vital/raw/main/res/vitality.png" width="169px"><br>
+    <img src="https://github.com/vitality-lang/vital/blob/trunk/res/vitality.png?raw=true" width="169px"><br>
     Simple Compiled language for joyful development
 </p>
 
